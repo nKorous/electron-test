@@ -6,3 +6,11 @@ body {
   max-width: 38rem;
   padding: 2rem;
 }
+
+#pokemon-info {
+  border: 2px solid purple;
+}
+
+#pokemon-info:hover {
+  background-color: whitesmoke;
+}
